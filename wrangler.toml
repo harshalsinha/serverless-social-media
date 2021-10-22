@@ -1,0 +1,12 @@
+name = "serverless-social-media"
+type = "webpack"
+
+account_id = "a487647c6df0650ff920b7fb3df92533"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-19"
+
+kv_namespaces = [ 
+	 { binding = "SOCIALMEDIA_DB", preview_id = "3db88e1162394d9ba02a9c93d3644be7", id = "bcb8a78a2cbb4980afd5f8a27c1c9168" }
+]
